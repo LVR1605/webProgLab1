@@ -6,7 +6,7 @@
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
     <title>Contact Us</title>
 </head>
-<body class="bg-gray-100">
+<body>
 <?php include 'components/navbar.php';?>
     <div class="min-h-screen flex justify-center items-center">
         <div class="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4 w-1/2">
