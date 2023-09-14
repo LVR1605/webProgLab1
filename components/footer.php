@@ -9,7 +9,7 @@
 <body>
 <div class="pb-3 pt-2 flex justify-center shadow-inner bg-gray-200">
     <?php
-        echo "&copy;  ThisInterestsMe.com" . " - " . date("Y") . " - " . "All Rights Reserved"
+        echo "&copy;  culinarycanvas.com" . " - " . date("Y") . " - " . "All Rights Reserved"
     ?>
 </div>
 </body>
