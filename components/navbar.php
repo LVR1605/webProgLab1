@@ -11,14 +11,17 @@
             <div class="w-3/4">
                 <nav class="bg-white text-xl p-4 fixed top-0 w-full z-50 navbar-fixed">
                     <ul class="flex items-center justify-between pt-3 pb-3 shadow-2xl">
-                        <div class="w-1/2 inline-flex pl-20 mb-5">
+                        <div class="" >
+                            <a href="index.php"><img class="w-20 h-16" src="./components/logo.png" alt="logo.img"></a>
+                        </div>
+                        <div class="w-1/2 inline-flex pl-20">
                             <input type="text" class="w-full border border-gray-300 p-2 rounded-full focus:outline-none focus:ring focus:border-blue-300" placeholder="Search...">
                         </div>
                         <div class="inline-flex pr-20 text-2xl">
                             <li class="mx-5 hover:text-red-500 duration-300"><a href="index.php">Home</a></li>
                             <li class="mx-5 hover:text-red-500 duration-300"><a href="about.php">About</a></li>
                             <li class="mx-5 hover:text-red-500 duration-300"><a href="contact.php">Contact</a></li>
-                            <div class="mx-5">
+                            <div class="mx-5 -mt-3">
                                 <button class="bg-black hover:bg-gray-200 hover:text-black duration-300 text-white font-bold py-2 px-6 rounded focus:outline-none focus:shadow-outline" type="button">Log in</button>
                             </div>
                         </div>
