@@ -20,6 +20,7 @@
                         <div class="inline-flex pr-20 text-2xl">
                             <li class="mx-5 hover:text-red-500 duration-300"><a href="index.php">Home</a></li>
                             <li class="mx-5 hover:text-red-500 duration-300"><a href="about.php">About</a></li>
+                            <li class="mx-5 hover:text-red-500 duration-300"><a href="recipes.php">Recipes</a></li>
                             <li class="mx-5 hover:text-red-500 duration-300"><a href="contact.php">Contact</a></li>
                             <div class="mx-5 -mt-3">
                                 <button class="bg-black hover:bg-gray-200 hover:text-black duration-300 text-white font-bold py-2 px-6 rounded focus:outline-none focus:shadow-outline" type="button">Log in</button>
