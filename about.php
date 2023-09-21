@@ -9,7 +9,7 @@
 </head>
 <body>
     <?php include 'components/navbar.php';?>
-    <div class="mt-28 max-h-screen">
+    <div class="mt-28 min-h-screen">
         <div class="flex justify-center">
             <?php
                 echo '<h1 class="px-5 py-10 text-7xl">CULINARY CANVAS</h1>'
@@ -24,6 +24,9 @@
             ?>
         </div>
         <div class="max-h-screen bg-gray-200 flex text-justify text-2xl">
+            <div class="ml-28 my-12">
+                <img class="w-900 h-900 " src="./components/photos/image1.jpg" alt="">
+            </div>
             <div  class="flex text-justify mx-28 my-12">
             <?php
                 echo '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>'
