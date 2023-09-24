@@ -4,11 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="./tailwind.css">
     <title>Home</title>
 </head>
 <body>
     <?php include 'components/navbar.php';?>
-    <div class="mt-20 min-h-screen">
+    <div class="mt-20 min-h-screen fade-in">
         <div class="pt-36">
             <?php
                 echo '<h3 class="text-6xl flex justify-center">Welcome to</h3>'
@@ -27,6 +28,9 @@
             <?php
                 echo '<p class="text-4xl py-3">So come explore the Culinary Canvas and discover the endless possibilities of food.</p>'
             ?>
+        </div>
+        <div class="mx-20 my-32">
+        <?php include 'components/imageCard.php';?>
         </div>
     </div>
     <?php include 'components/footer.php';?>
