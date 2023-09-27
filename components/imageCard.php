@@ -22,12 +22,12 @@
                 <img src="./components/photos/CajunSeafoodPasta.png" alt="Tranding">
               </div>
               <div class="tranding-slide-content">
-                <h1 class="food-price">$20</h1>
+                <h1 class="flex px-60 food-price bg-black opacity-80">$20</h1>
                 <div class="tranding-slide-content-bottom">
-                  <h2 class="food-name">
-                    Special Pizza
+                  <h2 class="food-name rounded-lg px-8 bg-black bg-opacity-30">
+                    Cajun Seafood Pasta
                   </h2>
-                  <h3 class="food-rating">
+                  <h3 class="food-rating text-black">
                     <span>4.5</span>
                     <div class="rating">
                       <ion-icon name="star"></ion-icon>
