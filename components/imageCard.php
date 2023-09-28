@@ -22,14 +22,11 @@
                 <img src="./components/photos/CajunSeafoodPasta.png" alt="Tranding">
               </div>
               <div class="tranding-slide-content">
-                <h1 class="flex px-60 food-price bg-black opacity-80">$20</h1>
+                <h1 class=" food-price flex px-10 bg-black rounded-lg opacity-70 font-semibold">Cajun Seafood Pasta</h1>
                 <div class="tranding-slide-content-bottom">
-                  <h2 class="food-name rounded-lg px-8 bg-black bg-opacity-30">
-                    Cajun Seafood Pasta
-                  </h2>
-                  <h3 class="food-rating text-black">
-                    <span>4.5</span>
-                    <div class="rating">
+                <h3 class="food-rating">
+                    <span">4.5</span>
+                    <div class="rating text-yellow-300">
                       <ion-icon name="star"></ion-icon>
                       <ion-icon name="star"></ion-icon>
                       <ion-icon name="star"></ion-icon>
@@ -47,14 +44,11 @@
                 <img src="./components/photos/Vegetarian-Chili-in-The-World-NatashaForestBrown.png" alt="Tranding">
               </div>
               <div class="tranding-slide-content">
-                <h1 class="food-price">$20</h1>
+                <h1 class="food-price flex px-10 bg-black rounded-lg opacity-70 font-semibold">Vegetarian Chili</h1>
                 <div class="tranding-slide-content-bottom">
-                  <h2 class="food-name">
-                    Meat Ball
-                  </h2>
                   <h3 class="food-rating">
                     <span>4.5</span>
-                    <div class="rating">
+                    <div class="rating text-yellow-300">
                       <ion-icon name="star"></ion-icon>
                       <ion-icon name="star"></ion-icon>
                       <ion-icon name="star"></ion-icon>
@@ -72,14 +66,11 @@
                 <img src="./components/photos/Mint_Chicken_010-2000-4ca7a46e70264a799ae9862d78515098.png" alt="Tranding">
               </div>
               <div class="tranding-slide-content">
-                <h1 class="food-price">$40</h1>
+                <h1 class="food-price flex px-10 bg-black rounded-lg opacity-70 font-semibold">Mint Chicken</h1>
                 <div class="tranding-slide-content-bottom">
-                  <h2 class="food-name">
-                    Burger
-                  </h2>
                   <h3 class="food-rating">
                     <span>4.5</span>
-                    <div class="rating">
+                    <div class="rating text-yellow-300">
                       <ion-icon name="star"></ion-icon>
                       <ion-icon name="star"></ion-icon>
                       <ion-icon name="star"></ion-icon>
@@ -97,14 +88,11 @@
                 <img src="./components/photos/green pasta.png" alt="Tranding">
               </div>
               <div class="tranding-slide-content">
-                <h1 class="food-price">$15</h1>
+                <h1 class="food-price flex px-10 bg-black rounded-lg opacity-70 font-semibold">Green Pasta</h1>
                 <div class="tranding-slide-content-bottom">
-                  <h2 class="food-name">
-                    Frish Curry
-                  </h2>
                   <h3 class="food-rating">
-                    <span>4.5</span>
-                    <div class="rating">
+                    <span class="text-black">4.5</span>
+                    <div class="rating text-yellow-300">
                       <ion-icon name="star"></ion-icon>
                       <ion-icon name="star"></ion-icon>
                       <ion-icon name="star"></ion-icon>
@@ -122,14 +110,11 @@
                 <img src="./components/photos/ham and chees on crossaint breakfast bake.png" alt="Tranding">
               </div>
               <div class="tranding-slide-content">
-                <h1 class="food-price">$15</h1>
+                <h1 class="food-price flex px-3 bg-black rounded-lg opacity-70 font-semibold text-center">Ham and Cheese on Crossaint breakfast bake</h1>
                 <div class="tranding-slide-content-bottom">
-                  <h2 class="food-name">
-                    Pane Cake
-                  </h2>
                   <h3 class="food-rating">
                     <span>4.5</span>
-                    <div class="rating">
+                    <div class="rating text-yellow-300">
                       <ion-icon name="star"></ion-icon>
                       <ion-icon name="star"></ion-icon>
                       <ion-icon name="star"></ion-icon>

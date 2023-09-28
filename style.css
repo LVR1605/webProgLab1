@@ -71,6 +71,12 @@ body {
   text-align: center;
 }
 
+.custom-bg-opacity {
+  background-color: rgba(0, 0, 0, 0.3); /* Background color with 30% opacity */
+  color: #fff; /* Text color */
+}
+
+
 .section-heading {
   font-size: 3rem;
   color: var(--primary);
