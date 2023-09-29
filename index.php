@@ -29,7 +29,7 @@
                 echo '<p class="text-4xl py-3">So come explore the Culinary Canvas and discover the endless possibilities of food.</p>'
             ?>
         </div>
-        <div class="mx-20 my-32">
+        <div class="mx-20">
         <?php include 'components/imageCard.php';?>
         </div>
     </div>
